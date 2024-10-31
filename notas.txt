@@ -1,0 +1,2 @@
+Para reiniciar el contador en sql
+ALTER TABLE `vehiculos` AUTO_INCREMENT = 1;
